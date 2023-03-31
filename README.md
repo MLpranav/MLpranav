@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hey there! 👋
 
-<!--
-**MLpranav/MLpranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pranav - a software developer, finance geek and *upcoming* machine learning engineer.
 
-Here are some ideas to get you started:
+I am documenting my machine learning (and overall tech) journey across [my blog](https://mlpranav.com/), [GitHub](https://github.com/MLpranav) and [YouTube](https://www.youtube.com/@MLpranav).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hopefully my content can help flatten the learning curve for other developers and ML enthusiasts.
+
+When not coding :computer:, I play Chess :chess_pawn:, read :books:, swim :swimming_man: and travel :helicopter:.
+
+#### Milestones:
+
+- [x] 31st March 2023 - Started learning ML and documenting my journey.
+
+I'm always open to feedback and collaboration. You can reach me [here](mailto:pranavmittal.ml@gmail.com).
+
+See you around!
+
+###### 💾 EOF
