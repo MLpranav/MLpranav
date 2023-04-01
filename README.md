@@ -2,9 +2,11 @@
 
 I'm Pranav - a software developer, finance geek and *upcoming* machine learning engineer.
 
-I am documenting my machine learning (and overall tech) journey across [my blog](https://mlpranav.com/), [GitHub](https://github.com/MLpranav) and [YouTube](https://www.youtube.com/@MLpranav).
+I have more than 3 years of experience in developing performant web apps and algorithmic trading systems.
 
-Hopefully my content can help flatten the learning curve for other developers and ML enthusiasts.
+I am documenting my machine learning and tech journey across [my blog](https://mlpranav.com/), [GitHub](https://github.com/MLpranav) and [YouTube](https://www.youtube.com/@MLpranav).
+
+I hope that my content can help flatten the learning curve for other developers and ML enthusiasts.
 
 ---
 
