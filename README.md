@@ -18,7 +18,10 @@ I hope that my content can help flatten the learning curve for other developers 
 
 ### :zap: Milestones:
 
-  - [x] 31st March 2023 - Started learning ML and documenting my journey.
+  - [x] 1st July 2023 - Started learning ML and documenting my journey.
+  - [x] 7th July 2023 - Completed Data Analytics Learning Plan by IBM and started work on my first ML project - an image classification CNN.
+  - [ ] x July 2023 - Wrote an article on my study plan.
+  - [ ] x July 2023 - Wrote an article on my first ML project and learnings till now.
 
 ---
 
